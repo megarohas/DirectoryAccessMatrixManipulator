@@ -1,0 +1,12 @@
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02_test\MBKS_Galkin_02_test\bin\Debug\MBKS_Galkin_02_test.exe.config
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02_test\MBKS_Galkin_02_test\bin\Debug\MBKS_Galkin_02_test.exe
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02_test\MBKS_Galkin_02_test\bin\Debug\MBKS_Galkin_02_test.pdb
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02_test\MBKS_Galkin_02_test\obj\Debug\MBKS_Galkin_02_test.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02_test\MBKS_Galkin_02_test\obj\Debug\MBKS_Galkin_02_test.exe
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02_test\MBKS_Galkin_02_test\obj\Debug\MBKS_Galkin_02_test.pdb
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02\MBKS_Galkin_02_test\bin\Debug\MBKS_Galkin_02_test.exe.config
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02\MBKS_Galkin_02_test\obj\Debug\MBKS_Galkin_02_test.exe
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02\MBKS_Galkin_02_test\obj\Debug\MBKS_Galkin_02_test.pdb
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02\MBKS_Galkin_02_test\bin\Debug\MBKS_Galkin_02_test.exe
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02\MBKS_Galkin_02_test\bin\Debug\MBKS_Galkin_02_test.pdb
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_02\MBKS_Galkin_02_test\obj\Debug\MBKS_Galkin_02_test.csprojResolveAssemblyReference.cache
